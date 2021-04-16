@@ -1,0 +1,13 @@
+#content, #content-delay{
+  width: 50%;
+  height: 100px;
+  line-height: 100px;
+  text-align: center;
+  font-size: 20px;
+  background-color: antiquewhite;
+  margin-top: 20px;
+}
+
+#content-delay{
+  background-color: beige;
+}
